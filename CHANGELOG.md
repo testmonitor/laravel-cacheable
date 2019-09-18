@@ -4,7 +4,9 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](CONTRIBUTING.md).
 
-
+## [v2.2.0] - 2019-09-18
+- Add Laravel 6.0 support
+-
 ## [v2.1.0] - 2019-06-02
 - Update composer deps
 - Drop PHP 7.1 travis test
